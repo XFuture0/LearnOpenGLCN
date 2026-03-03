@@ -1,3 +1,0 @@
-﻿  Main.cpp
-D:\VS编程文件\source\repos\LearnOpenGLCN\Src\Main.cpp(428,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  LearnOpenGLCN.vcxproj -> D:\VS编程文件\source\repos\LearnOpenGLCN\Debug\LearnOpenGLCN.exe
